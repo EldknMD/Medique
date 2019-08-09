@@ -94,4 +94,4 @@ message.channel.send("¿Cual es el sexo biológico del paciente?")
 
 }})
 console.log("Primum non nocere!")
-client.login("NjA4MDY3MDA3MTcwMjE1OTc3.XUiwjw.zI3dmt_3urPJnnui3Oac75x2LM0");
+client.login("");
